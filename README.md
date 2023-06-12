@@ -4,7 +4,7 @@
 
 * QR Code Generator designed using the Google QR Codes.
 
-## [LIve Site]()
+## [LIve Site](https://generates-qr.netlify.app)
 
 ## Technology Used:
 * HTML
